@@ -1,0 +1,34 @@
+Sequencer Widget Notes
+
+
+Need Rest as well as Sustain in note widget
+
+Rate change: needs to be queued and track position set accordingly.
+
+Change sequence queuing to show sequence name
+
+Reverse track
+
+Selection model needs work
+
+Drag and drop sequences in project view
+
+Add delete and rename to context menu in project view
+
+Scroll Wheel resizes width in sequencer view
+
+Recieve / Send  MIDI Time Code and control messages
+
+Right click disaples note, left click plays it when not in play mode
+
+MIDI ports: Need dialoug check for midi ports, display errror message if none available.
+
+Midi transpose
+
+Phrase list - automated.
+
+Automation for song length tracks
+
+Dump Midi
+Dump Audio
+

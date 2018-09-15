@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Sequencer">
+        <file>icons/actionNew.png</file>
+        <file>icons/actionOpen.png</file>
+        <file>icons/actionSave.png</file>
+        <file>icons/Blank.png</file>
+        <file>icons/MainWindow.png</file>
+        <file>icons/Play.png</file>
+        <file>icons/Stop.png</file>
+        <file>icons/X.png</file>
+        <file>icons/add.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/copy.png</file>
+    </qresource>
+</RCC>
