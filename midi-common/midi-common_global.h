@@ -1,0 +1,12 @@
+#ifndef MIDICOMMON_GLOBAL_H
+#define MIDICOMMON_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(MIDICOMMON_LIBRARY)
+#  define MIDICOMMONSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define MIDICOMMONSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // MIDICOMMON_GLOBAL_H

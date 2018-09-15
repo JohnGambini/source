@@ -1,0 +1,16 @@
+gnaClasses
+
+gnaTreeItem.setData() -----
+If you add data to a gnaTreeItem that has children it will
+insert a column into each of it's children as well. This
+means the data set in the children will be displaced ( moved over) if
+your adding to column 0 in the parent. (I.E. add the first column to the
+parent, the data in the child item gets moved over by one position.)
+I think the best way to fix it is to have the parent check for the
+existence of column 0 in the children and if it exists, leave it alone.
+
+
+gnaVariant ------
+
+gnaVariant var = 0 Doesn't work. You can set it to 1,2,3,... or set it
+equal to an integer variable but setting it to zero doesn't work.

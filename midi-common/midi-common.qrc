@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Sequencer">
+        <file>icons/next.png</file>
+        <file>icons/PausePlay.png</file>
+        <file>icons/prev.png</file>
+        <file>icons/Record.png</file>
+        <file>icons/Stop.png</file>
+        <file>fonts/LCD-BOLD.TTF</file>
+    </qresource>
+</RCC>

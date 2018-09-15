@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Sequencer">
+        <file>icons/about.png</file>
+        <file>icons/actionExit.png</file>
+        <file>icons/actionSettings.png</file>
+        <file>icons/MainWindow.png</file>
+    </qresource>
+</RCC>
